@@ -78,7 +78,7 @@ Tracks:
 - Customer Segment Performance
 
 ### Dashboard Preview
-![Executive Dashboard](PASTE_EXECUTIVE_DASHBOARD_IMAGE)
+![Executive Dashboard](reports/dashboard_screenshorts/main.png)
 
 ---
 
@@ -91,7 +91,7 @@ Features:
 - Segment-Level Lifecycle Analysis
 
 ### Dashboard Preview
-![Retention Dashboard](PASTE_RETENTION_DASHBOARD_IMAGE)
+![Retention Dashboard](reports/dashboard_screenshorts/cohort.png)
 
 ---
 
@@ -104,7 +104,7 @@ Interactive simulation engine for:
 - Margin optimization
 
 ### Dashboard Preview
-![Pricing Simulator](PASTE_PRICING_SIMULATOR_IMAGE)
+![Pricing Simulator](reports/dashboard_screenshorts/pricing.png)
 
 ---
 
@@ -118,7 +118,7 @@ Models future business outcomes under:
 - Retention improvement
 
 ### Dashboard Preview
-![Scenario Engine](PASTE_SCENARIO_ENGINE_IMAGE)
+![Scenario Engine](reports/dashboard_screenshorts/scenario.png)
 
 ---
 
@@ -132,7 +132,7 @@ AI-powered sentiment analysis system featuring:
 - Pricing sensitivity signals
 
 ### Dashboard Preview
-![Market Intelligence](PASTE_MARKET_INTELLIGENCE_IMAGE)
+![Market Intelligence](reports/dashboard_screenshorts/consumer.png)
 
 ---
 
@@ -266,4 +266,5 @@ The platform expands that strategic foundation into a fully operational analytic
 
 # 👨‍💻 Author
 
-### Mujahid Kalanthar
+**Mujahid Kalanthar**  
+ECE • MNNIT Allahabad  
